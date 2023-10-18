@@ -28,4 +28,4 @@ Execute the script:
 ```bash
 ./firewall.sh
 ```
-![Firewall Image](https://i.imgur.com/P4WKxsf.png)
+![gif](https://i.imgur.com/WQWMg2G.gif)
